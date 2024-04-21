@@ -1,0 +1,54 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Last Pencil (Java)/*
+!/Last Pencil (Java)/task/
+/Last Pencil (Java)/task/*
+!/Last Pencil (Java)/task/src
+
+# Project exclude paths
+/Topics/Declaring functionality with interfaces/Implementing an interface/out/
+/Topics/Declaring functionality with interfaces/Implementing an interface/out/production/classes/
+/Topics/Declaring functionality with interfaces/Polymorphic area calculator for shapes/out/
+/Topics/Declaring functionality with interfaces/Polymorphic area calculator for shapes/out/production/classes/
+/Topics/Declaring functionality with interfaces/Statements/out/
+/Topics/Declaring functionality with interfaces/Statements/out/production/classes/
+/Topics/Declaring functionality with interfaces/Theory/out/
+/Topics/Declaring functionality with interfaces/Theory/out/production/classes/
+/Topics/Declaring functionality with interfaces/What are we implementing now/out/
+/Topics/Declaring functionality with interfaces/What are we implementing now/out/production/classes/
+/Topics/Declaring functionality with interfaces/What can an interface have/out/
+/Topics/Declaring functionality with interfaces/What can an interface have/out/production/classes/
+/Topics/Declaring functionality with interfaces/What does an interface define/out/
+/Topics/Declaring functionality with interfaces/What does an interface define/out/production/classes/
+/Topics/Default methods/Implement a default method/out/
+/Topics/Default methods/Implement a default method/out/production/classes/
+/Topics/Default methods/Java Interface Default Method Execution/out/
+/Topics/Default methods/Java Interface Default Method Execution/out/production/classes/
+/Topics/Default methods/Journey Towards Java Default Methods/out/
+/Topics/Default methods/Journey Towards Java Default Methods/out/production/classes/
+/Topics/Default methods/Resolve a diamond problem/out/
+/Topics/Default methods/Resolve a diamond problem/out/production/classes/
+/Topics/Iterating over arrays/Right Rotation/out/
+/Topics/Iterating over arrays/Right Rotation/out/production/classes/
+/Topics/Iterating over arrays/Sum array elements greater than a value/out/
+/Topics/Iterating over arrays/Sum array elements greater than a value/out/production/classes/
+/Topics/Iterating over arrays/Sum of even numbers in a comma-separated list/out/
+/Topics/Iterating over arrays/Sum of even numbers in a comma-separated list/out/production/classes/
+/Topics/Iterating over arrays/Two numbers never occur next to each other/out/
+/Topics/Iterating over arrays/Two numbers never occur next to each other/out/production/classes/
+/Topics/NullPointerException/Avoid NPE/out/
+/Topics/NullPointerException/Avoid NPE/out/production/classes/
+/Topics/Wrapping classes. Boxing/Only true or false/out/
+/Topics/Wrapping classes. Boxing/Only true or false/out/production/classes/
+/Topics/Wrapping classes. Boxing/Transitioning between integer forms and displaying values/out/
+/Topics/Wrapping classes. Boxing/Transitioning between integer forms and displaying values/out/production/classes/
